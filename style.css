@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(71, 121, 121);
+    text-align: center;
+    margin: o;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(154, 204, 103);
+    border-radius: 10px;
+}
+
+button {
+    background-color: black;
+    color: aqua;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+
+}
+#asdf {
+    color: rgb(50, 76, 224);
+}
